@@ -1,0 +1,5 @@
+play
+pause
+next
+previous
+stop

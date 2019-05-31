@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar player;
+public <greet> = (good morning | hello) ( bhiksha | evandro | rita | will );
+public <goodbye> = (good bye | gone | leave);

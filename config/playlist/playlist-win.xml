@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayLists dtype="Default" 
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			xsi:noNamespaceSchemaLocation="playList.xsd">
+
+	<playlist pl-id="1001" pl-name="Island Troy - Set 1" location="D:\temp\songs\islandtroy\set1" filemask="*.*" auto-play="false"/>
+	<playlist pl-id="1002" pl-name="Island Troy - Break 1" location="D:\temp\songs\islandtroy\break1" filemask="*.*" auto-play="true"/>
+	<playlist pl-id="1003" pl-name="Island Troy - Set 2" location="D:\temp\songs\islandtroy\set2" filemask="*.*" auto-play="false"/>
+	<playlist pl-id="1004" pl-name="Island Troy - Break 2" location="D:\temp\songs\islandtroy\break2" filemask="*.*" auto-play="true"/>
+	<playlist pl-id="1005" pl-name="Island Troy - Set 3" location="D:\temp\songs\islandtroy\set3" filemask="*.*" auto-play="true"/>
+	<playlist pl-id="1006" pl-name="Misc" location="D:\temp\songs\misc" filemask="*.*" auto-play="true"/>
+
+	<playlist pl-id="1007" pl-name="Island Troy" 
+		create-datetime="" update-datetime="" pl-index="0"
+		auto-play="true">
+		
+		<setlist sl-name="Set 1" sl-index="0" auto-play="true">
+			<song song-name="Tarzan Boy" song-index="0">
+				<location>d:/temp/songs/Baltamora - TarzanBoy.mp3</location>
+			</song>
+			<song song-name="Boom Clap" song-index="1">
+				<location>d:/temp/songs/Charli - XCXCharliXCXBoomClap.mp3</location>
+			</song>
+		</setlist>	
+	</playlist>
+	
+</PlayLists>

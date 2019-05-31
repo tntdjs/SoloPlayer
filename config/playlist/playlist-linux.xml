@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayLists dtype="Default" 
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			xsi:noNamespaceSchemaLocation="playList.xsd">
+
+	<playlist pl-id="1001" pl-name="Island Troy - Set 1" location="/home/pi/Public//islandtroy/set1" filemask="*.*" auto-play="false"/>
+	<playlist pl-id="1002" pl-name="Island Troy - Break 1" location="/home/pi/Public/islandtroy/break1" filemask="*.*" auto-play="true"/>
+	<playlist pl-id="1003" pl-name="Island Troy - Set 2" location="/home/pi/Public/islandtroy/set2" filemask="*.*" auto-play="false"/>
+	<playlist pl-id="1004" pl-name="Island Troy - Break 2" location="/home/pi/Public/islandtroy/break2" filemask="*.*" auto-play="true"/>
+	<playlist pl-id="1005" pl-name="Island Troy - Set 3" location="/home/pi/Public/islandtroy/set3" filemask="*.*" auto-play="true"/>
+
+</PlayLists>

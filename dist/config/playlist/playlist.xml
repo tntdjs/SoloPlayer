@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PlayLists dtype="Default" xsi:noNamespaceSchemaLocation="playList.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <playlist pl-id="1001" pl-name="Island Troy - Set 1" filemask="*.*" auto-play="false">
+        <setlist sl-name="Set 1" sl-index="0">
+            <song song-name="00 Billy Currington - Thats How Country Boys Roll.mp3" song-index="4">
+                <location>D:/temp/songs/islandtroy/set1/00 Billy Currington - Thats How Country Boys Roll.mp3</location>
+            </song>
+            <song song-name="00 Jimmy Buffett - Cheeseburger In Paradise.mp3" song-index="0">
+                <location>D:/temp/songs/islandtroy/set1/00 Jimmy Buffett - Cheeseburger In Paradise.mp3</location>
+            </song>
+            <song song-name="00 Jimmy Buffett - Come Monday.mp3" song-index="3">
+                <location>D:/temp/songs/islandtroy/set1/00 Jimmy Buffett - Come Monday.mp3</location>
+            </song>
+            <song song-name="00 Jimmy Buffett - Volcano.mp3" song-index="2">
+                <location>D:/temp/songs/islandtroy/set1/00 Jimmy Buffett - Volcano.mp3</location>
+            </song>
+            <song song-name="Van Morrison - Brown Eyed Girl.mp3" song-index="1">
+                <location>D:/temp/songs/islandtroy/set1/Van Morrison - Brown Eyed Girl.mp3</location>
+            </song>
+        </setlist>
+    </playlist>
+    <playlist pl-id="1002" pl-name="Island Troy - Break 1" location="D:\temp\songs\islandtroy\break1" filemask="*.*" auto-play="true"/>
+    <playlist pl-id="1003" pl-name="Island Troy - Set 2" location="D:\temp\songs\islandtroy\set2" filemask="*.*" auto-play="false"/>
+    <playlist pl-id="1004" pl-name="Island Troy - Break 2" location="D:\temp\songs\islandtroy\break2" filemask="*.*" auto-play="true"/>
+    <playlist pl-id="1005" pl-name="Island Troy - Set 3" location="D:\temp\songs\islandtroy\set3" filemask="*.*" auto-play="true"/>
+    <playlist pl-id="1006" pl-name="Misc" location="D:\temp\songs\misc" filemask="*.*" auto-play="true"/>
+    <playlist pl-id="1007" pl-name="Island Troy" create-datetime="" update-datetime="2017-04-27T08:29:27.985" pl-index="0" location="" filemask="*.*" auto-play="true">
+        <setlist sl-name="Set1" sl-index="1" auto-play="false">
+            <song song-name="Tarzan Boy" song-index="1">
+                <location>d:/temp/songs/Baltamora - TarzanBoy.mp3</location>
+            </song>
+            <song song-name="D:\temp\songs\Baltamora - TarzanBoy.mp3" song-index="2">
+                <location>D:\temp\songs\Baltamora - TarzanBoy.mp3</location>
+            </song>
+        </setlist>
+    </playlist>
+    <playlist pl-id="1010" pl-name="Test PL A bettsf df afds gfdgds" update-datetime="2017-04-26T21:50:25.621" pl-index="65" location="D:\temp\songs\islandtroy\set99" filemask="*.*" auto-play="false">
+        <setlist/>
+    </playlist>
+    <playlist pl-id="1493141306572" pl-name="Test PL new name" update-datetime="2017-04-27T07:14:44.729" pl-index="2" location="D:\temp\songs\islandtroy\set99" filemask="*.*" auto-play="true">
+        <setlist/>
+    </playlist>
+    <playlist pl-id="1493671328056" pl-name="testmeout" update-datetime="2017-05-02T10:46:39.588" pl-index="1" location="D:\temp\songs\set2" filemask="*.*" auto-play="false">
+        <setlist sl-name="Set 1" sl-index="0">
+            <song song-name="Baltamora - TarzanBoy.mp3" song-index="0">
+                <location>D:/temp/songs/set2/Baltamora - TarzanBoy.mp3</location>
+            </song>
+            <song song-name="Charli - XCXCharliXCXBoomClap.mp3" song-index="1">
+                <location>D:/temp/songs/set2/Charli - XCXCharliXCXBoomClap.mp3</location>
+            </song>
+            <song song-name="Christina Perri - Arms.mp3" song-index="2">
+                <location>D:/temp/songs/set2/Christina Perri - Arms.mp3</location>
+            </song>
+        </setlist>
+    </playlist>
+    <playlist pl-id="1493736491097" pl-name="test msbfsdfsdf" update-datetime="2017-05-04T10:26:14.802" pl-index="22" location="" filemask="*.*" auto-play="true">
+        <setlist sl-name="Set1" sl-index="1" auto-play="false">
+            <song song-name="D:\temp\songs\Callaway - I Wanna Be Rich.mp3" song-index="1">
+                <location>D:\temp\songs\Callaway - I Wanna Be Rich.mp3</location>
+            </song>
+            <song song-name="D:\temp\songs\Christina Perri - Arms.mp3" song-index="2">
+                <location>D:\temp\songs\Christina Perri - Arms.mp3</location>
+            </song>
+            <song song-name="D:\temp\songs\CharliXCXCharliXCXBoomClap.mp3" song-index="4">
+                <location>D:\temp\songs\CharliXCXCharliXCXBoomClap.mp3</location>
+            </song>
+        </setlist>
+    </playlist>
+    <playlist pl-id="1493827409988" pl-name="MSG d-drive" update-datetime="2017-05-03T12:03:53.184" pl-index="1" location="D:\temp\songs\Michael Stanley Band" filemask="*.*" auto-play="false">
+        <setlist sl-name="Set 1" sl-index="0">
+            <song song-name="00 Michael Stanley Band - Falling In Love Again.mp3" song-index="0">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - Falling In Love Again.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - He Can't Love You.mp3" song-index="1">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - He Can't Love You.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - In Between The Lines.mp3" song-index="2">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - In Between The Lines.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - In The Heartland.mp3" song-index="3">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - In The Heartland.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - Let's Get The Show On The Road.mp3" song-index="4">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - Let's Get The Show On The Road.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - Lover.mp3" song-index="5">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - Lover.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - Midwest Midnight.mp3" song-index="6">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - Midwest Midnight.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - My Town.mp3" song-index="7">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - My Town.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - Nothing's Gonna Change My Mind.mp3" song-index="8">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - Nothing's Gonna Change My Mind.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - One Good Reason.mp3" song-index="9">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - One Good Reason.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - Rosewood Bitters.mp3" song-index="10">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - Rosewood Bitters.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - Someone Like You.mp3" song-index="11">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - Someone Like You.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - Somewhere In The Night.mp3" song-index="12">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - Somewhere In The Night.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - Strike Up The Band.mp3" song-index="13">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - Strike Up The Band.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - We're Not Stranges Anymore.mp3" song-index="14">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - We're Not Stranges Anymore.mp3</location>
+            </song>
+            <song song-name="00 Michael Stanley Band - Why Should Love Be This Way.mp3" song-index="15">
+                <location>D:/temp/songs/Michael Stanley Band/00 Michael Stanley Band - Why Should Love Be This Way.mp3</location>
+            </song>
+        </setlist>
+    </playlist>
+    <playlist pl-id="1515382461494" pl-name="B1" update-datetime="2018-01-11T12:23:07.546" pl-index="1" location="" filemask="*.*" auto-play="false">
+        <setlist sl-name="Set1" sl-index="1" auto-play="false"/>
+    </playlist>
+    <playlist pl-id="1515691404087" pl-name="B2" update-datetime="2018-01-11T12:24:35.936" pl-index="1" location="D:\temp\songs\misc" filemask="*.*" auto-play="false">
+        <setlist sl-name="Set1" sl-index="1" auto-play="false"/>
+    </playlist>
+</PlayLists>

@@ -1,0 +1,42 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	
+  <xs:element name="PlayLists">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="playlist" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="setlist" minOccurs="0" maxOccurs="1">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="song" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="location"/>
+                        </xs:sequence>
+                        <xs:attribute type="xs:string" name="song-name" use="optional"/>
+                        <xs:attribute type="xs:integer" name="song-index" use="optional"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="sl-name" use="optional"/>
+                  <xs:attribute type="xs:integer" name="sl-index" use="optional"/>
+                  <xs:attribute type="xs:string" name="auto-play" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:integer" name="pl-id" use="optional"/>
+            <xs:attribute type="xs:string" name="pl-name" use="optional"/>
+            <xs:attribute type="xs:string" name="create-datetime" use="optional"/>
+            <xs:attribute type="xs:string" name="update-datetime" use="optional"/>
+            <xs:attribute type="xs:integer" name="pl-index" use="optional"/>
+            <xs:attribute type="xs:string" name="location" use="optional"/>
+            <xs:attribute type="xs:string" name="filemask" use="optional"/>
+            <xs:attribute type="xs:string" name="auto-play" use="optional"/>            
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="dtype"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

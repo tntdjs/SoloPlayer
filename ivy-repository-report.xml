@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="caller"
+		module="all-caller"
+		revision="working"
+
+		conf="default"
+		confs="default"
+		date="20190526212000"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>

@@ -1,0 +1,52 @@
+Language model created by QuickLM on Mon May 14 14:18:22 EDT 2018
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 5 sentences and 8 words
+
+\data\
+ngram 1=8
+ngram 2=11
+ngram 3=10
+
+\1-grams:
+-0.9031 </s> -0.3010
+-0.9031 <s> -0.2430
+-1.6021 NEXT -0.2430
+-1.6021 PAUSE -0.2430
+-1.6021 PLAY -0.2430
+-1.6021 PREVIOUS -0.2430
+-0.9031 SONG -0.2430
+-1.6021 STOP -0.2430
+
+\2-grams:
+-1.0000 <s> NEXT 0.0000
+-1.0000 <s> PAUSE 0.0000
+-1.0000 <s> PLAY 0.0000
+-1.0000 <s> PREVIOUS 0.0000
+-1.0000 <s> STOP 0.0000
+-0.3010 NEXT SONG 0.0000
+-0.3010 PAUSE SONG 0.0000
+-0.3010 PLAY SONG 0.0000
+-0.3010 PREVIOUS SONG 0.0000
+-0.3010 SONG </s> -0.3010
+-0.3010 STOP SONG 0.0000
+
+\3-grams:
+-0.3010 <s> NEXT SONG
+-0.3010 <s> PAUSE SONG
+-0.3010 <s> PLAY SONG
+-0.3010 <s> PREVIOUS SONG
+-0.3010 <s> STOP SONG
+-0.3010 NEXT SONG </s>
+-0.3010 PAUSE SONG </s>
+-0.3010 PLAY SONG </s>
+-0.3010 PREVIOUS SONG </s>
+-0.3010 STOP SONG </s>
+
+\end\

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration strict="true">
+	<Properties>
+		<Property name="filename">log/soloplayer.log</Property>
+	</Properties>
+
+	<Appenders>
+    	<Console name="Console">
+      		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    	</Console>
+		<Appender type="File" name="File" fileName="${filename}">
+	    	<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+		</Appender>
+  	</Appenders>
+  
+	<Loggers>
+		<Logger name="edu.cmu.sphinx" level="error" additivity="false" >
+			<AppenderRef ref="File"/>
+		</Logger>
+		<!-- 
+			edu.cmu.sphinx.instrumentation.MemoryTracker
+			edu.cmu.sphinx.instrumentation.SpeedTracker
+			edu.cmu.sphinx.frontend.feature.FeatureTransform
+		 -->
+    	<Root level="info">
+      		<AppenderRef ref="Console"/>
+      		<AppenderRef ref="File"/> 
+    	</Root>
+  	</Loggers>
+</Configuration>
